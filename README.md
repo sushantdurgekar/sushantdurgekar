@@ -1,5 +1,5 @@
 # 🕉️ Sushant S Durgekar:
-<br>👋🏾 Yo, 
+👋🏾 Yo, 
 <br>📱 Tech Enthusiasts 
 <br>👨🏾‍💻 Currently working as Software developer 
 <br>👨🏾‍🎓 Graduated with Bachelor of Engineering in (Electronics and Communication Engineering) 
