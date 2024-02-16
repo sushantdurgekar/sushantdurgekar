@@ -1,10 +1,10 @@
 # 🕉️ Sushant S Durgekar:
-👋🏾 Yo, 
-📱 Tech Enthusiasts 
-👨🏾‍💻 Currently working as Software developer 
-👨🏾‍🎓 Graduated with Bachelor of Engineering in (Electronics and Communication Engineering) 
-🐉 Anime Fan 
-📫 You can reach me at https://www.linkedin.com/in/sushantdurgekar
+<br>👋🏾 Yo, 
+<br>📱 Tech Enthusiasts 
+<br>👨🏾‍💻 Currently working as Software developer 
+<br>👨🏾‍🎓 Graduated with Bachelor of Engineering in (Electronics and Communication Engineering) 
+<br>🐉 Anime Fan 
+<br>📫 You can reach me at https://www.linkedin.com/in/sushantdurgekar
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sushant_durgekar77) 
